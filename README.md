@@ -1,6 +1,16 @@
-# Identicon
+# Elixir Identicon
 
-**TODO: Add description**
+**TODO: Generate Identicon Simple**
+
+
+```sh
+> mix deps.get
+> iex -S mix
+> Identicon.main("dream")
+```
+
+## Screenshot after generate 
+<image src="./dream.png" width="128px" />
 
 ## Installation
 
